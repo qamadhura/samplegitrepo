@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="TestCases"/>
+	<classpathentry kind="lib" path="D:/Java_Test/jars_backup/selenium-java-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java_Test/jars_backup/selenium-java-2.53.1-srcs.jar"/>
+	<classpathentry kind="lib" path="D:/Java_Test/jars_backup/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java_Test/jars_backup/testng.jar"/>
+	<classpathentry kind="lib" path="jars/javax.mail.jar"/>
+	<classpathentry kind="lib" path="jars/javacsv.jar"/>
+	<classpathentry kind="lib" path="jars/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="jars/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="jars/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
